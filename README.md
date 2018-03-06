@@ -7,5 +7,7 @@ Docker to run CIRI-AS for splicing quantification of circular RNA
 
 ## Maintainer
 [Nuno Agostinho](mailto:nunodanielagostinho@gmail.com) (2018)
+
 [Disease Transcriptomics Lab](http://imm.medicina.ulisboa.pt/group/compbio/)
+
 Instituto de Medicina Molecular João Lobo Antunes
